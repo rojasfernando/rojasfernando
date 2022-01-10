@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 Lic. en Nutricón y mudandome a programación.
 - 🔭 Actualmente estudiando en Nucba.
-- 🌱 Me especializo en romper codigos.
-- 👯 Tomar mate con mezcla de yerbas, burrito y anís.
+- 🌱 Tranquilo y sin apuros..
+- 👯 Soy del mate amargo cargado con exploción de yuyos..
+- 👯 Tengo nacionalidad pero pertenezco al mundo!
