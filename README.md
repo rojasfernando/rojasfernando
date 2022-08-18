@@ -3,4 +3,4 @@
 - 🔭 Actualmente estudiando en Nucba.
 - 🌱 Tranquilo y sin apuros..
 - 👯 Soy del mate amargo cargado con exploción de yuyos..
-- 👯 Tengo nacionalidad pero pertenezco al mundo!
+- 👯 Tengo nacionalidad pero pertenezco al mund..
