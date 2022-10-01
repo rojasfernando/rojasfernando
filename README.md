@@ -5,5 +5,5 @@
 - 👯 Tengo nacionalidad pero pertenezco al mundo.
 
 
-![image](https://user-images.githubusercontent.com/91997517/193375612-a25b63fc-ccec-4603-be00-0b0260aa9ff3.png)
+https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
 
