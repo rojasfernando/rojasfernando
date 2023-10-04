@@ -7,7 +7,7 @@
 - ⚡ Previous profession: degree in nutrition
 
 <div id= "header" aling="center">
- <img src= "https://media.giphy.com/media/EZ4P7yo04aaiRK6RlJ/giphy.gif" widt="200"/>
+ <img src= "https://media.giphy.com/media/EZ4P7yo04aaiRK6RlJ/giphy.gif" widt="100"/>
 <div/>
   
 onnect with me:
@@ -18,9 +18,6 @@ Languages and Tools:
 
 css3 git html5 java javascript  python
 
-<div id= "header" aling="center">
- <img src= "https://img.shields.io/gitlab/forks/:project" widt="200"/>
-<div/>
 
 
 
