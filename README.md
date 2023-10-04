@@ -2,8 +2,8 @@
 ### Hi there 👋 You want to know something about me, so here we go!
  
 
-- 🔭 urrently studying 2 years at "National Technological University (UTN) - San Rafael Mendoza- Argentina" ( https://www.frsr.utn.edu.ar/ )
-- 🌱 studying Full Stack at Nucba ( https://www.nucba.com.ar/ )
+- 🔭 Currently studying 2 years at "National Technological University (UTN) - San Rafael Mendoza- Argentina" ( https://www.frsr.utn.edu.ar/ )
+- 🌱 Studying Full Stack at Nucba ( https://www.nucba.com.ar/ )
 - ⚡ Previous profession: degree in nutrition
 
  
