@@ -6,6 +6,9 @@
 - 🌱 studying Full Stack at Nucba ( https://www.nucba.com.ar/ )
 - ⚡ Previous profession: degree in nutrition
 
+https://media.giphy.com/media/EZ4P7yo04aaiRK6RlJ/giphy.gif
+
+
 onnect with me:
 
 www.linkedin.com/in/fernando-rojas-3427ab136
