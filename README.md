@@ -7,7 +7,7 @@
 - ⚡ Previous profession: degree in nutrition
 
 <div id= "header" aling="center">
- <img src= "https://media.giphy.com/media/EZ4P7yo04aaiRK6RlJ/giphy.gif" widt="100"/>
+ <img src= "https://media.giphy.com/media/EZ4P7yo04aaiRK6RlJ/giphy.gif" widt="200"/>
 <div/>
   
 onnect with me:
