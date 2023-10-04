@@ -10,4 +10,4 @@ www.linkedin.com/in/fernando-rojas-3427ab136
 
 Languages and Tools:
 
-css3 git html5 java javascript mysql python
+css3 git html5 java javascript  python
