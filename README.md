@@ -1,4 +1,11 @@
 ![logo canvas2](https://github.com/rojasfernando/rojasfernando/assets/91997517/44f7d736-ab8f-41ab-a09e-3c3ac6212372)
 ### Hi there 👋
-- 🔭 Actualmente cursando 2 año en "Universidad Tecnológica Nacional (UTN) - San Rafael Mendoza- Argentina"
+- 🔭 urrently studying 2 years at "National Technological University (UTN) - San Rafael Mendoza- Argentina"
+- 🌱 studying Full Stack at Nucba ( https://www.nucba.com.ar/ )
+- ⚡ Previous profession: degree in nutrition
 
+onnect with me:
+www.linkedin.com/in/fernando-rojas-3427ab136
+
+Languages and Tools:
+css3 git html5 java javascript mysql python
