@@ -7,7 +7,7 @@
 - ⚡ Previous profession: degree in nutrition
 
 <div id= "header" aling="center">
- <img src= "https://media.giphy.com/media/EZ4P7yo04aaiRK6RlJ/giphy.gif" widt="200"/>
+<img src= "https://media.giphy.com/media/EZ4P7yo04aaiRK6RlJ/giphy.gif" widt="200"/>
 <div/>
   
 onnect with me:
@@ -15,11 +15,11 @@ onnect with me:
 www.linkedin.com/in/fernando-rojas-3427ab136
 
 Languages and Tools:
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
 
+
+### My stats
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=rojasfer&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
 
