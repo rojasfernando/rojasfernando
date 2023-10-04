@@ -18,6 +18,10 @@ Languages and Tools:
 
 css3 git html5 java javascript  python
 
-https://img.shields.io/gitlab/forks/:project
+<div id= "header" aling="center">
+ <img src= "https://img.shields.io/gitlab/forks/:project" widt="200"/>
+<div/>
+
+
 
 
