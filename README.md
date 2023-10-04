@@ -1,4 +1,3 @@
-![logo canvas2](https://github.com/rojasfernando/rojasfernando/assets/91997517/44f7d736-ab8f-41ab-a09e-3c3ac6212372)
 ### Hi there 👋 You want to know something about me, so here we go!
  
 
