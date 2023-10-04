@@ -15,6 +15,7 @@ onnect with me:
 www.linkedin.com/in/fernando-rojas-3427ab136
 
 Languages and Tools:
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
