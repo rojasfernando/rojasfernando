@@ -7,7 +7,7 @@
 - ⚡ Previous profession: degree in nutrition
 
  
-onnect with me:
+Connect with me:
 
 www.linkedin.com/in/fernando-rojas-3427ab136
 
