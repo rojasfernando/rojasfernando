@@ -25,7 +25,5 @@ Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojasfernando&hide_progress=true)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/rojasfernando/github-readme-stats)
-
 
 
