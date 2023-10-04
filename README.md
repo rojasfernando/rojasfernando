@@ -16,7 +16,7 @@ www.linkedin.com/in/fernando-rojas-3427ab136
 
 Languages and Tools:
 
-css3 git html5 java javascript  python
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
 
 
