@@ -2,7 +2,7 @@
  
  - 🔭 In 2020 I started in the programming environment by creating an ecommerce website "mulandeco.com" with WordPress.
       Then I continued taking courses such as:      
-   - ⚡  2021 - Responsive Web Design HTML 5 and CSS3, at the UTN of Chaco Argentina.
+   - ⚡  2021 - Responsive Web Design HTML 5 and CSS3, at the UTN of Chaco Argentina (https://www.frre.utn.edu.ar/).
    - ⚡  2022 - QA Software Testing Course - Basic.                                         
 - 🔭 Currently studying 2 years at "National Technological University (UTN) - San Rafael Mendoza- Argentina" ( https://www.frsr.utn.edu.ar/ )
 - 🌱 Studying Full Stack at Nucba ( https://www.nucba.com.ar/ )
