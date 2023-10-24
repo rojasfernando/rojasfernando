@@ -6,7 +6,7 @@
    - ⚡  2022 - QA Software Testing Course - Basic.                                         
 - 🔭 Currently studying 2 years at "National Technological University (UTN) - San Rafael Mendoza- Argentina" ( https://www.frsr.utn.edu.ar/ )
 - 🌱 Studying Full Stack at Nucba ( https://www.nucba.com.ar/ )
- Previous profession: degree in nutrition
+- ⚡Previous profession: degree in nutrition
 
  
 Connect with me:
