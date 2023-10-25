@@ -25,7 +25,7 @@
 
 
 ### My stats
-<a href="https://git.io/rojasfernando"><img src="http://github-readme-rojasfernando.herokuapp.com?user=rojasfer&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub rojasfernando" /></a>
+<a href="https://git.io/rojas-fernando"><img src="http://github-readme-rojas-fernando.herokuapp.com?user=rojasfer&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub rojas-fernando" /></a>
 
 ![rojasfernando GitHub stats](https://github-readme-stats.vercel.app/api?username=rojasfernando&show_icons=true&theme=radical)
 
